@@ -1,0 +1,7 @@
+body {
+    background: rgb(22, 168, 212);
+    transition : all 1s;
+}
+.ninja form {
+    background : grey;
+}
